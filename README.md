@@ -1,10 +1,10 @@
-# Hello Coders and Pros! :wave:
+# Hello Coders! :wave:
 ## It's HacktoberFest and GAWDS :heart: Open Source
 
 ![Image](/assets/git.jpg)
 
 ### Let's help you submit your first Pull Request.
-
+#pr
 Once your pull request is being merged, your profile will be visible in the Submissions section of this page. For this exercise you'll be adding a new entry to the source code of this website with your profile details. Excited?  let's begin! :sparkles:
 ## Step 1
 Goto the GitHub repository of this project and fork the project to your account. Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
