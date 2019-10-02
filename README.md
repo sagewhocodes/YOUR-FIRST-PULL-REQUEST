@@ -1,4 +1,4 @@
-# Hello Coders! :wave:
+# Hello Coders and Pros! :wave:
 ## It's HacktoberFest and GAWDS :heart: Open Source
 
 ![Image](/assets/git.jpg)
