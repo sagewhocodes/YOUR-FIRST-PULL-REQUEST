@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+# Hello Coders and Developers! :wave:
+=======
 # Hello NITians! :wave:
 
+>>>>>>> upstream/master
 ## It's HacktoberFest and GAWDS :heart: Open Source
 
 ![Image](/assets/git.jpg)
