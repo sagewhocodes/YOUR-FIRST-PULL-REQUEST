@@ -42,6 +42,8 @@ Donot forget that the hyphens "---" are also part of the file. Once you finish a
 Commit the changes with a suitable commit message :heavy_check_mark: . First we need to stage all the changes we made. Open the terminal inside the project directory and execute following commands.<br/>
 `git add .`
 
+Note: Add only useful content while making PR else your account will be flagged by GitHub if too many people reports your PR as Spam. 
+
 The above command stages all the changes, now lets commit it with a suitable message.
 `git commit -m "YOUR_COMMIT_MESSAGE"`
 
