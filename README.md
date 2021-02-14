@@ -1,4 +1,5 @@
-# Hello NITians! :wave:
+
+# Hello Developers! and coders :wave:
 
 ## It's HacktoberFest and GAWDS :heart: Open Source
 
